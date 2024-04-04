@@ -1,0 +1,1345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pharmify.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Pharmify.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\1.png",
+      "PackagePath": "staticwebassets\\Images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\Chinese-bhel.jpg",
+      "PackagePath": "staticwebassets\\Images\\Chinese-bhel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a1.webp",
+      "PackagePath": "staticwebassets\\Images\\a1.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a10.webp",
+      "PackagePath": "staticwebassets\\Images\\a10.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a11.webp",
+      "PackagePath": "staticwebassets\\Images\\a11.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a2.webp",
+      "PackagePath": "staticwebassets\\Images\\a2.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a3.webp",
+      "PackagePath": "staticwebassets\\Images\\a3.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a4.webp",
+      "PackagePath": "staticwebassets\\Images\\a4.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a5.webp",
+      "PackagePath": "staticwebassets\\Images\\a5.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a6.webp",
+      "PackagePath": "staticwebassets\\Images\\a6.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a7.webp",
+      "PackagePath": "staticwebassets\\Images\\a7.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a8.webp",
+      "PackagePath": "staticwebassets\\Images\\a8.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\a9.webp",
+      "PackagePath": "staticwebassets\\Images\\a9.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\bgLogin.png",
+      "PackagePath": "staticwebassets\\Images\\bgLogin.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\bookmark.svg",
+      "PackagePath": "staticwebassets\\Images\\bookmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\burger1.jpg",
+      "PackagePath": "staticwebassets\\Images\\burger1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\c1.png",
+      "PackagePath": "staticwebassets\\Images\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\c2.png",
+      "PackagePath": "staticwebassets\\Images\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\c3.png",
+      "PackagePath": "staticwebassets\\Images\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\c4.png",
+      "PackagePath": "staticwebassets\\Images\\c4.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\c5.png",
+      "PackagePath": "staticwebassets\\Images\\c5.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\c6.png",
+      "PackagePath": "staticwebassets\\Images\\c6.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\cari.png",
+      "PackagePath": "staticwebassets\\Images\\cari.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\cheese_maggie.webp",
+      "PackagePath": "staticwebassets\\Images\\cheese_maggie.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\css\\site.css",
+      "PackagePath": "staticwebassets\\Images\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\d1.webp",
+      "PackagePath": "staticwebassets\\Images\\d1.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\d2.webp",
+      "PackagePath": "staticwebassets\\Images\\d2.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\d3.webp",
+      "PackagePath": "staticwebassets\\Images\\d3.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\d4.webp",
+      "PackagePath": "staticwebassets\\Images\\d4.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\d5.webp",
+      "PackagePath": "staticwebassets\\Images\\d5.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\d6.webp",
+      "PackagePath": "staticwebassets\\Images\\d6.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\d7.webp",
+      "PackagePath": "staticwebassets\\Images\\d7.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\d8.webp",
+      "PackagePath": "staticwebassets\\Images\\d8.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\detail1.png",
+      "PackagePath": "staticwebassets\\Images\\detail1.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\detail2.png",
+      "PackagePath": "staticwebassets\\Images\\detail2.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\detailMain.png",
+      "PackagePath": "staticwebassets\\Images\\detailMain.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\discover.png",
+      "PackagePath": "staticwebassets\\Images\\discover.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\discover2.png",
+      "PackagePath": "staticwebassets\\Images\\discover2.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\fudadu2.png",
+      "PackagePath": "staticwebassets\\Images\\fudadu2.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\fuddu.png",
+      "PackagePath": "staticwebassets\\Images\\fuddu.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\fyp.png",
+      "PackagePath": "staticwebassets\\Images\\fyp.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\gambarDua.png",
+      "PackagePath": "staticwebassets\\Images\\gambarDua.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\gambarEmpat.png",
+      "PackagePath": "staticwebassets\\Images\\gambarEmpat.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\gambarEnam.png",
+      "PackagePath": "staticwebassets\\Images\\gambarEnam.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\gambarLima.png",
+      "PackagePath": "staticwebassets\\Images\\gambarLima.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\gambarSatu.png",
+      "PackagePath": "staticwebassets\\Images\\gambarSatu.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\gambarTiga.png",
+      "PackagePath": "staticwebassets\\Images\\gambarTiga.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\icon.png",
+      "PackagePath": "staticwebassets\\Images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\iconComment.png",
+      "PackagePath": "staticwebassets\\Images\\iconComment.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\iconFull.png",
+      "PackagePath": "staticwebassets\\Images\\iconFull.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\iconPlay.svg",
+      "PackagePath": "staticwebassets\\Images\\iconPlay.svg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\item1.webp",
+      "PackagePath": "staticwebassets\\Images\\item1.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\js\\site.js",
+      "PackagePath": "staticwebassets\\Images\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\karen.svg",
+      "PackagePath": "staticwebassets\\Images\\karen.svg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Images\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\like.svg",
+      "PackagePath": "staticwebassets\\Images\\like.svg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\logoLogin.png",
+      "PackagePath": "staticwebassets\\Images\\logoLogin.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\m1.webp",
+      "PackagePath": "staticwebassets\\Images\\m1.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\m2.png",
+      "PackagePath": "staticwebassets\\Images\\m2.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\m2.webp",
+      "PackagePath": "staticwebassets\\Images\\m2.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\m3.webp",
+      "PackagePath": "staticwebassets\\Images\\m3.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\newRecipe.png",
+      "PackagePath": "staticwebassets\\Images\\newRecipe.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p1.webp",
+      "PackagePath": "staticwebassets\\Images\\p1.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p10.webp",
+      "PackagePath": "staticwebassets\\Images\\p10.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p11.webp",
+      "PackagePath": "staticwebassets\\Images\\p11.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p12.webp",
+      "PackagePath": "staticwebassets\\Images\\p12.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p2.webp",
+      "PackagePath": "staticwebassets\\Images\\p2.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p3.webp",
+      "PackagePath": "staticwebassets\\Images\\p3.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p4.webp",
+      "PackagePath": "staticwebassets\\Images\\p4.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p5.webp",
+      "PackagePath": "staticwebassets\\Images\\p5.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p6.webp",
+      "PackagePath": "staticwebassets\\Images\\p6.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p7.webp",
+      "PackagePath": "staticwebassets\\Images\\p7.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p8.webp",
+      "PackagePath": "staticwebassets\\Images\\p8.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\p9.webp",
+      "PackagePath": "staticwebassets\\Images\\p9.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\pasta.jpg",
+      "PackagePath": "staticwebassets\\Images\\pasta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\play.svg",
+      "PackagePath": "staticwebassets\\Images\\play.svg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\profilePic.png",
+      "PackagePath": "staticwebassets\\Images\\profilePic.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\react.svg",
+      "PackagePath": "staticwebassets\\Images\\react.svg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 1.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 1.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 10.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 10.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 11.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 11.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 2.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 2.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 3.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 3.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 4.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 4.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 5.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 5.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 6.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 6.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 7.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 7.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 8.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 8.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\recipe pic 9.png",
+      "PackagePath": "staticwebassets\\Images\\recipe pic 9.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\Images\\veg-biryani.jpg",
+      "PackagePath": "staticwebassets\\Images\\veg-biryani.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\AddMenu.css",
+      "PackagePath": "staticwebassets\\css\\AddMenu.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\DetailMenu.css",
+      "PackagePath": "staticwebassets\\css\\DetailMenu.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\Footer.css",
+      "PackagePath": "staticwebassets\\css\\Footer.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\Profile.css",
+      "PackagePath": "staticwebassets\\css\\Profile.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\SearchMenu.css",
+      "PackagePath": "staticwebassets\\css\\SearchMenu.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\1.png",
+      "PackagePath": "staticwebassets\\image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\2.jpg",
+      "PackagePath": "staticwebassets\\image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\3.jpg",
+      "PackagePath": "staticwebassets\\image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\4.jpg",
+      "PackagePath": "staticwebassets\\image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a1.webp",
+      "PackagePath": "staticwebassets\\image\\a1.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a10.webp",
+      "PackagePath": "staticwebassets\\image\\a10.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a11.webp",
+      "PackagePath": "staticwebassets\\image\\a11.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a2.webp",
+      "PackagePath": "staticwebassets\\image\\a2.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a3.webp",
+      "PackagePath": "staticwebassets\\image\\a3.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a4.webp",
+      "PackagePath": "staticwebassets\\image\\a4.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a5.webp",
+      "PackagePath": "staticwebassets\\image\\a5.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a6.webp",
+      "PackagePath": "staticwebassets\\image\\a6.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a7.webp",
+      "PackagePath": "staticwebassets\\image\\a7.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a8.webp",
+      "PackagePath": "staticwebassets\\image\\a8.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\a9.webp",
+      "PackagePath": "staticwebassets\\image\\a9.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\c1.png",
+      "PackagePath": "staticwebassets\\image\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\c2.png",
+      "PackagePath": "staticwebassets\\image\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\c3.png",
+      "PackagePath": "staticwebassets\\image\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\c4.png",
+      "PackagePath": "staticwebassets\\image\\c4.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\c5.png",
+      "PackagePath": "staticwebassets\\image\\c5.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\c6.png",
+      "PackagePath": "staticwebassets\\image\\c6.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\css\\site.css",
+      "PackagePath": "staticwebassets\\image\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\d1.webp",
+      "PackagePath": "staticwebassets\\image\\d1.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\d2.webp",
+      "PackagePath": "staticwebassets\\image\\d2.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\d3.webp",
+      "PackagePath": "staticwebassets\\image\\d3.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\d4.webp",
+      "PackagePath": "staticwebassets\\image\\d4.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\d5.webp",
+      "PackagePath": "staticwebassets\\image\\d5.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\d6.webp",
+      "PackagePath": "staticwebassets\\image\\d6.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\d7.webp",
+      "PackagePath": "staticwebassets\\image\\d7.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\d8.webp",
+      "PackagePath": "staticwebassets\\image\\d8.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\favicon.ico",
+      "PackagePath": "staticwebassets\\image\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\fudadu2.png",
+      "PackagePath": "staticwebassets\\image\\fudadu2.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\fuddu.png",
+      "PackagePath": "staticwebassets\\image\\fuddu.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\js\\site.js",
+      "PackagePath": "staticwebassets\\image\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\image\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\image\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\m1.webp",
+      "PackagePath": "staticwebassets\\image\\m1.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\m2.png",
+      "PackagePath": "staticwebassets\\image\\m2.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\m2.webp",
+      "PackagePath": "staticwebassets\\image\\m2.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\m3.webp",
+      "PackagePath": "staticwebassets\\image\\m3.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p1.webp",
+      "PackagePath": "staticwebassets\\image\\p1.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p10.webp",
+      "PackagePath": "staticwebassets\\image\\p10.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p11.webp",
+      "PackagePath": "staticwebassets\\image\\p11.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p12.webp",
+      "PackagePath": "staticwebassets\\image\\p12.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p2.webp",
+      "PackagePath": "staticwebassets\\image\\p2.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p3.webp",
+      "PackagePath": "staticwebassets\\image\\p3.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p4.webp",
+      "PackagePath": "staticwebassets\\image\\p4.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p5.webp",
+      "PackagePath": "staticwebassets\\image\\p5.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p6.webp",
+      "PackagePath": "staticwebassets\\image\\p6.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p7.webp",
+      "PackagePath": "staticwebassets\\image\\p7.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p8.webp",
+      "PackagePath": "staticwebassets\\image\\p8.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\image\\p9.webp",
+      "PackagePath": "staticwebassets\\image\\p9.webp"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\img_pharmify\\logo.png",
+      "PackagePath": "staticwebassets\\img_pharmify\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\js\\SearchMenu.js",
+      "PackagePath": "staticwebassets\\js\\SearchMenu.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dhjes\\Downloads\\Pharmify\\Taste Treasure 3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pharmify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pharmify.props",
+      "PackagePath": "build\\Pharmify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pharmify.props",
+      "PackagePath": "buildMultiTargeting\\Pharmify.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pharmify.props",
+      "PackagePath": "buildTransitive\\Pharmify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
